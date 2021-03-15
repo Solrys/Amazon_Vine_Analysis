@@ -27,12 +27,13 @@ In order to closely Analyze the datasets after I have Extracted and Transformed 
 1) There are a total of 40,565 reviews. 
 94 vine reviews and 40,471 are non-vine reviews. 
 The small percentage of vine reviews is important to consider while moving forward with this analysis. 
+![image](https://github.com/Solrys/Amazon_Vine_Analysis/blob/main/images/Screen%20Shot%202021-03-14%20at%2011.23.02%20PM.png)
 
 2) There was a total of 15,711 5-star reviews with 48 5-star vine reviews and 15663 5-star non-vine reviews.
 
 3) Finally 51.06% of paid reviews are 5-stars and 38.7% of unpaid reveiws are 5-stars.
 
-![image](
+
 ![image](
 ![image](
 
