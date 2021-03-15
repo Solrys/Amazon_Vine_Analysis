@@ -33,10 +33,7 @@ The small percentage of vine reviews is important to consider while moving forwa
 ![image](https://github.com/Solrys/Amazon_Vine_Analysis/blob/main/images/Screen%20Shot%202021-03-14%20at%2011.23.37%20PM.png)
 
 3) Finally 51.06% of paid reviews are 5-stars and 38.7% of unpaid reveiws are 5-stars.
-
-
-
-![image](
+![image](https://github.com/Solrys/Amazon_Vine_Analysis/blob/main/images/Screen%20Shot%202021-03-14%20at%2011.23.57%20PM.png)
 
 ## Summary:
 
